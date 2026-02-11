@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "AI Mastery Academy",
+    "tagline": "Master AI. Transform Your Business.",
+    "description": "Expert-led AI webinars and consulting services for professionals and enterprises looking to harness the power of artificial intelligence.",
+    "url": "https://aimasteryacademy.com",
+    "email": "hello@aimasteryacademy.com",
+    "phone": "+1 (555) 123-4567"
+  },
+  "seo": {
+    "title": "AI Mastery Academy - Expert AI Training & Consulting",
+    "description": "Transform your career and business with expert-led AI webinars. From ChatGPT basics to custom AI solutions, master artificial intelligence with hands-on training from industry leaders.",
+    "keywords": [
+      "AI training",
+      "ChatGPT course",
+      "AI consulting",
+      "business AI strategy",
+      "AI education",
+      "prompt engineering",
+      "AI automation",
+      "AI webinar"
+    ],
+    "ogImage": "/og-image.png",
+    "twitterHandle": "@aimasteracademy"
+  },
+  "navigation": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "Courses", "href": "#services" },
+    { "label": "About", "href": "#about" },
+    { "label": "Testimonials", "href": "#testimonials" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "cta": {
+    "primary": "Book a Consultation",
+    "secondary": "View Courses"
+  },
+  "calendly": {
+    "url": "https://calendly.com/aimasteryacademy/consultation"
+  }
+}

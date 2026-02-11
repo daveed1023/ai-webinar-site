@@ -1,0 +1,93 @@
+{
+  "courses": [
+    {
+      "id": "beginner",
+      "tier": "Beginner",
+      "title": "AI Fundamentals",
+      "tagline": "Start Your AI Journey",
+      "description": "Master ChatGPT, prompt engineering, and essential AI tools. Perfect for professionals new to artificial intelligence.",
+      "price": "$299",
+      "duration": "4 weeks",
+      "format": "Live + Recorded",
+      "sessions": "8 sessions",
+      "features": [
+        "ChatGPT basics and advanced techniques",
+        "Prompt engineering mastery",
+        "AI tools overview (Midjourney, Claude, etc.)",
+        "Practical business use cases",
+        "Hands-on projects and exercises",
+        "Certificate of completion",
+        "Lifetime access to recordings",
+        "Private community access"
+      ],
+      "highlights": [
+        "Perfect for beginners",
+        "Live Q&A sessions",
+        "Industry case studies"
+      ],
+      "cta": "Enroll Now",
+      "popular": false,
+      "gridSpan": "md:col-span-1 md:row-span-1"
+    },
+    {
+      "id": "intermediate",
+      "tier": "Intermediate",
+      "title": "Business AI Applications",
+      "tagline": "Transform Your Workflow",
+      "description": "Deep dive into AI workflows, automation strategies, and practical business implementations that drive ROI.",
+      "price": "$599",
+      "duration": "8 weeks",
+      "format": "Live + Mentorship",
+      "sessions": "16 sessions",
+      "features": [
+        "AI workflow design and optimization",
+        "Business process automation",
+        "Custom GPT creation",
+        "API integrations and tools",
+        "Real-world implementation projects",
+        "1-on-1 mentorship sessions",
+        "ROI measurement strategies",
+        "Private community + Q&A",
+        "Lifetime updates and resources"
+      ],
+      "highlights": [
+        "Most Popular",
+        "Personalized feedback",
+        "Career transformation"
+      ],
+      "cta": "Start Learning",
+      "popular": true,
+      "gridSpan": "md:col-span-2 md:row-span-2"
+    },
+    {
+      "id": "advanced",
+      "tier": "Advanced",
+      "title": "Custom AI Solutions",
+      "tagline": "Build AI-Powered Systems",
+      "description": "Master custom implementations, API usage, and building production-ready AI-powered solutions for enterprise.",
+      "price": "$1,299",
+      "duration": "12 weeks",
+      "format": "Private Consulting",
+      "sessions": "24 sessions",
+      "features": [
+        "Custom AI solution architecture",
+        "OpenAI, Anthropic, Google AI APIs",
+        "Building AI-powered applications",
+        "Vector databases and embeddings",
+        "Fine-tuning and model optimization",
+        "Production deployment strategies",
+        "Executive coaching and strategy",
+        "Ongoing consulting and support",
+        "Priority access to new content"
+      ],
+      "highlights": [
+        "For Technical Leaders",
+        "Custom solutions",
+        "Direct expert access"
+      ],
+      "cta": "Schedule Consultation",
+      "popular": false,
+      "gridSpan": "md:col-span-1 md:row-span-1"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "VP of Engineering",
+      "company": "TechCorp",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "rating": 5,
+      "text": "This webinar transformed how our team approaches AI implementation. The practical insights were invaluable, and we saw immediate ROI.",
+      "course": "Business AI Applications",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Marcus Rodriguez",
+      "role": "Data Scientist",
+      "company": "DataFlow Inc",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "rating": 5,
+      "text": "Clear, concise, and immediately actionable. Best AI training I've experienced. The instructor's expertise is unmatched.",
+      "course": "AI Fundamentals",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Emily Watson",
+      "role": "CTO",
+      "company": "InnovateLabs",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
+      "rating": 5,
+      "text": "The Advanced course helped us build custom AI solutions that saved millions. Worth every penny and more.",
+      "course": "Custom AI Solutions",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "James Park",
+      "role": "ML Engineer",
+      "company": "AI Dynamics",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
+      "rating": 5,
+      "text": "Phenomenal instructor with deep industry knowledge. The hands-on projects were exceptional and directly applicable to my work.",
+      "course": "Business AI Applications",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Lisa Thompson",
+      "role": "Product Manager",
+      "company": "StartupXYZ",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa",
+      "rating": 5,
+      "text": "Even as a non-technical PM, I was able to understand and implement AI strategies. Game-changer for our product roadmap.",
+      "course": "AI Fundamentals",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "David Kumar",
+      "role": "CEO",
+      "company": "Enterprise Solutions Inc",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+      "rating": 5,
+      "text": "The ROI from implementing what I learned in this course exceeded all expectations. Highly recommend for any business leader.",
+      "course": "Business AI Applications",
+      "featured": false
+    }
+  ]
+}

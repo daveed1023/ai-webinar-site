@@ -50,7 +50,7 @@ export function Hero() {
           >
             Master AI.{' '}
             <GradientText as="span" className="block mt-2">
-              Transform The Past </Past>.
+              Transform Your Future.
             </GradientText>
           </motion.h1>
 
